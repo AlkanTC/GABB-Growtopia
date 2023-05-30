@@ -5,7 +5,7 @@ GABB with extra protection to make it more undetectable.
 Currently supports Windows.
 
 ## Download
-[Release](https://github.com/RealGoblinz/Growtopia-GABB/releases/download/secured/GABB.v0.6.2.zip)
+[Release](https://github.com/AlkanTC/GABB-Growtopia/releases/download/secured/GABB.v0.6.2.zip)
 
 ## GABB
 The Uncomplete GABB Source Code, full on Reji's discord Server.
